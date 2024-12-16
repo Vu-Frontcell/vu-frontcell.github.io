@@ -1,3 +1,3 @@
 # vu-frontcell.github.io
 
-[Max-Test](https://maxburgers-test.futureordering.com)
+[Max-Test](se.futureordering.app://https://maxburgers-test.futureordering.com)
